@@ -164,7 +164,7 @@
 }
 
 .sessao-4{
-    margin: 460px 0px 0px 200px;      
+    margin: 460px 0px 0px 200px;        
 }
 
 .s-4{
@@ -190,6 +190,8 @@
 
 .h2-s4{
     position: relative;
+    width: 1180px;
+    flex-shrink: 0;
     font-size: 30px;
     margin: 0;
 }
